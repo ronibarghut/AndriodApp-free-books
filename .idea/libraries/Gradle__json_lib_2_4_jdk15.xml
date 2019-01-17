@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: json-lib-2.4-jdk15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backend/src/main/webapp/libs/json-lib-2.4-jdk15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

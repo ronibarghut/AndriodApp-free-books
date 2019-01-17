@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: imap">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/backend/src/main/webapp/libs/imap.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
